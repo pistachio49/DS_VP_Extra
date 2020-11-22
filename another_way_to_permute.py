@@ -8,7 +8,7 @@
 #For the given code
 
  from itertools import permutations
- print list(permutations('sit',2)) --->it takes 2 parameters here,the string and the length of each arrangement
+ print list(permutations('sit',2)) --->it takes 2 parameters here,the string and the length of each arrangement we want
 
 we get the output as shown below
  [('s', 'i'), ('s', 't'), ('i', 's'), ('i', 't'), ('t', 's'), ('t', 'i')]
