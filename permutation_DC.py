@@ -42,6 +42,7 @@ def combination(a,b,start,end,index,r):
         i+=1
 
 
+#Driver code
 string=raw_input("")  #taking the required string as the input
 a = string.split()    #splitting the string
 n = len(a) 
