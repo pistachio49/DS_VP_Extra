@@ -27,4 +27,4 @@ k = map(''.join,list(permutations(I[0],int(I[1]))))
 #will change to ['si', 'st', 'is', 'it', 'ts', 'ti'] 
 
 for i in k:
-    print ''.join(i) #printing each element
+    print ''.join(i) #printing each element 
